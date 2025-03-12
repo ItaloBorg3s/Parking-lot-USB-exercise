@@ -1,4 +1,4 @@
-# 🚨 Parking Lot USB Exercise
+# Parking Lot USB Exercise
 
 ## 📌 Contents
 | Question | Answer |
